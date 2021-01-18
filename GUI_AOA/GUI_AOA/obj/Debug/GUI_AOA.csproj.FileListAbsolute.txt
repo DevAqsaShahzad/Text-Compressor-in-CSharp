@@ -1,0 +1,24 @@
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\bin\Debug\GUI_AOA.exe.config
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\bin\Debug\GUI_AOA.exe
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\bin\Debug\GUI_AOA.pdb
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.csprojAssemblyReference.cache
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Form2.resources
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Form3.resources
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Form4.resources
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Properties.Resources.resources
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.csproj.GenerateResource.cache
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.csproj.CoreCompileInputs.cache
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.exe
+C:\Users\Afifa Aslam\source\repos\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.pdb
+F:\AOA-Project\GUI_AOA\GUI_AOA\bin\Debug\GUI_AOA.exe.config
+F:\AOA-Project\GUI_AOA\GUI_AOA\bin\Debug\GUI_AOA.exe
+F:\AOA-Project\GUI_AOA\GUI_AOA\bin\Debug\GUI_AOA.pdb
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.csprojAssemblyReference.cache
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Form2.resources
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Form3.resources
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Form4.resources
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.Properties.Resources.resources
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.csproj.GenerateResource.cache
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.csproj.CoreCompileInputs.cache
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.exe
+F:\AOA-Project\GUI_AOA\GUI_AOA\obj\Debug\GUI_AOA.pdb

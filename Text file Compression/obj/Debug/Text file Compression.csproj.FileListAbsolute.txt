@@ -1,0 +1,6 @@
+C:\Users\Pisces Khan\OneDrive\Documents\GitHub\AOA-Project\Text file Compression\bin\Debug\Text file Compression.exe.config
+C:\Users\Pisces Khan\OneDrive\Documents\GitHub\AOA-Project\Text file Compression\bin\Debug\Text file Compression.exe
+C:\Users\Pisces Khan\OneDrive\Documents\GitHub\AOA-Project\Text file Compression\bin\Debug\Text file Compression.pdb
+C:\Users\Pisces Khan\OneDrive\Documents\GitHub\AOA-Project\Text file Compression\obj\Debug\Text file Compression.exe
+C:\Users\Pisces Khan\OneDrive\Documents\GitHub\AOA-Project\Text file Compression\obj\Debug\Text file Compression.pdb
+C:\Users\Pisces Khan\OneDrive\Documents\GitHub\AOA-Project\Text file Compression\obj\Debug\Text file Compression.csprojAssemblyReference.cache
